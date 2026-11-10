@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#16191D"/>
+  <!-- handle -->
+  <path d="M330 330 L410 410" stroke="#D4A256" stroke-width="44" stroke-linecap="round"/>
+  <!-- lens rim -->
+  <circle cx="226" cy="226" r="138" fill="#1D2126" stroke="#D4A256" stroke-width="30"/>
+  <!-- a tiny commit graph seen through the lens -->
+  <path d="M196 140 V312" stroke="#6FA8DC" stroke-width="16" stroke-linecap="round" fill="none"/>
+  <path d="M196 182 C196 214 262 206 262 238 V268 C262 292 196 284 196 312" stroke="#7FC08F" stroke-width="16" stroke-linecap="round" fill="none"/>
+  <circle cx="196" cy="160" r="20" fill="#6FA8DC"/>
+  <circle cx="262" cy="248" r="20" fill="#7FC08F"/>
+  <circle cx="196" cy="300" r="20" fill="#6FA8DC"/>
+</svg>
